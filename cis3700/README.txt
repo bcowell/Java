@@ -5,7 +5,7 @@ README.txt
 ----------------------
 
 New to Java so this assignment was very challenging. Seemed strange not do something like this in c.
-In the end I managed to get the SearchAgent to solve the puzzles but could figure out how to properly format the solution.
+In the end I managed to get the SearchAgent to solve the puzzles but didn't finish formatting the solution.
 
 TO USE
 -----------------
